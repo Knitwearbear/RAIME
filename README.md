@@ -1,2 +1,2 @@
 # RAIME
-Reinforcement learning through GTA V.
+A reinforcement learning agent subjugated to life in Grand Theft Auto V. 
