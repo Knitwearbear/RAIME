@@ -1,5 +1,5 @@
 """
-@author: Knitwearbear, with the help of the internet
+@author: Knitwearbear, with the help of the internet. Based off of Sentdex's tutorial on self driving cars within GTA V
 """
 
 import numpy as np
